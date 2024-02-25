@@ -3,4 +3,3 @@ beautifulsoup4
 colorama
 Flask
 gunicorn
-your_application
