@@ -428,7 +428,6 @@ def index():
 			continue
 	else:
 		data = {
-			"Card": cx,
 			"Response": "Proxy Error",
 			"Gate": "Shopify + Braintree $30",
 			"status": "declined"
